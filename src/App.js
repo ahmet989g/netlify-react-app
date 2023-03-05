@@ -9,7 +9,7 @@ function App() {
         <p>
           Edit <code>src/App.js</code> and save to reload.
         </p>
-        <p>Successfully Deployed <code>A React application</code> to Netlify with CircleCI</p>
+        <p>Successfully Deployed <code>A React application</code> to Netlify with CircleCI 22</p>
         <a
           className="App-link"
           href="https://reactjs.org"
